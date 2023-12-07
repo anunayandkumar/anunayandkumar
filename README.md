@@ -1,9 +1,8 @@
 <h1 align="center">Hii !! I'm Anunay 😎 </h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate coder & developer from India</h3>
 
 <img align="right" alt="coding_gif" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🤴 I’m currently learning **Frontend Development**
 
 
 <h3 align="left">Connect with me:</h3>
